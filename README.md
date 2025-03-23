@@ -13,8 +13,6 @@ https://leetcode.com/u/SGallivan/ - 86,
 https://leetcode.com/u/frogfox/ - 85,
 https://leetcode.com/u/nika-skybytska/ - 81
 
-The most difficult badge to get is most likely the Guardian badge with 6141 having the badge, but the rarest badge is probably the 2000 Days Submission which is approximately 5.5 years of submission days. Out of around 500 accounts in the top 1000 range, I found only 65 which had the 2000 days badge (added in this repository) which didn't include users such as the rank #1: https://leetcode.com/u/cpcs/ , #3: https://leetcode.com/u/rnotappl/ , #9: https://leetcode.com/u/betsymp/ , #10: https://leetcode.com/u/yuanzhi247012/
-
 <br>
 
 Currently Earnable Badges (23)
