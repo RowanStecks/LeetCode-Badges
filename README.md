@@ -2,9 +2,13 @@
 
 ### This repository aims to compile an exhaustive list of LeetCode.com badges.
 
-Updated as of March 22, 2025
+Updated as of April 5, 2025
 
-After looking at hundreds of different LeetCode profiles, I believe there are currently 106 existing badges with 103 being able to have at the same time, the other 3 being lower levels of badges that can't be had at the same time. I have found one account with all 103 badges: https://leetcode.com/u/phoenixdd/ and here are some other users with high badge counts:
+Amount of badges that can be had simultaneously: 104
+Existing Badges: 107
+
+Account with all 104 badges: https://leetcode.com/u/phoenixdd/ and some other users with high badge counts:
+https://leetcode.com/u/virtyaluk/ - 102
 https://leetcode.com/u/hmz74/ - 95,
 https://leetcode.com/u/zhang1pr/ - 93,
 https://leetcode.com/u/skywalkert/ - 89,
