@@ -2,24 +2,29 @@
 
 ### This repository aims to compile an exhaustive list of LeetCode.com badges.
 
-Updated as of April 5, 2025
+Updated as of April 27, 2025
 
-Amount of badges that can be had simultaneously: 104
-Existing Badges: 107
+Amount of badges that can be had simultaneously: 105 (1 comp + 4 submit days + 11 annual badges + 51 daily + 38 study plan = 105).
+Existing Badges: 108
 
-Account with all 104 badges: https://leetcode.com/u/phoenixdd/ and some other users with high badge counts:
-https://leetcode.com/u/virtyaluk/ - 102
-https://leetcode.com/u/hmz74/ - 95,
-https://leetcode.com/u/zhang1pr/ - 93,
+Account with all 105 badges: https://leetcode.com/u/phoenixdd/ and some other users with high badge counts:
+https://leetcode.com/u/virtyaluk/ - 103
+https://leetcode.com/u/hmz74/ - 97,
+https://leetcode.com/u/zhang1pr/ - 95,
+https://leetcode.com/u/akashsingh3031 - 93,
 https://leetcode.com/u/skywalkert/ - 89,
-https://leetcode.com/u/leohunt/ - 87,
-https://leetcode.com/u/SGallivan/ - 86,
-https://leetcode.com/u/frogfox/ - 85,
-https://leetcode.com/u/nika-skybytska/ - 81
+https://leetcode.com/u/leohunt/ - 89,
+https://leetcode.com/u/SGallivan/ - 88,
+https://leetcode.com/u/frogfox/ - 87,
+https://leetcode.com/u/nika-skybytska/ - 83
+
+Most Difficult Badge: Guardian
+
+Rarest Badge: 2000 Days
 
 <br>
 
-Currently Earnable Badges (23)
+Currently Earnable Badges (26)
 <div align="center">
 <table>
   <tr>
@@ -57,10 +62,31 @@ Currently Earnable Badges (23)
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
   </tr>
+    <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-4.png" width="200"></td>
+    <td align="center">Apr 2025 Badge</td>
+    <td align="center">Submit code daily in April 2025</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">✅</td>
+  </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-3.png" width="200"></td>
     <td align="center">Mar 2025 Badge</td>
     <td align="center">Submit code daily in March 2025</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-2.png" width="200"></td>
+    <td align="center">Feb 2025 Badge</td>
+    <td align="center">Submit code daily in February 2025</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-1.png" width="200"></td>
+    <td align="center">Jan 2025 Badge</td>
+    <td align="center">Submit code daily in January 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -195,7 +221,7 @@ Currently Earnable Badges (23)
 
 <br>
 
-All Existing Badges (106)
+All Existing Badges (108)
 
 <br>
 
@@ -228,7 +254,7 @@ Competition Badges (2)
 
 <br>
 
-Annual and Days Badges (12)
+Annual and Days Badges (13)
 <div align="center">
 <table>
   <tr>
@@ -237,6 +263,13 @@ Annual and Days Badges (12)
     <th>How to Earn</th>
     <th>Type</th>
     <th>Earnable</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg25100.png" width="200"></td>
+    <td align="center">100 Days Badge 100</td>
+    <td align="center">Submit code on 100+ distinct days in 2025</td>
+    <td align="center">Annual Medals</td>
+    <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg2550.png" width="200"></td>
@@ -327,11 +360,11 @@ Annual and Days Badges (12)
 
 <br>
 
-Daily Badges (50)
+Daily Badges (52)
 
 <br>
 
-2025 Daily Badges (2)
+2025 Daily Badges (4)
 <div align="center">
 <table>
   <tr>
@@ -346,14 +379,28 @@ Daily Badges (50)
     <td align="center">Jan 2025 Badge</td>
     <td align="center">Submit code daily in January 2025</td>
     <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-2.png" width="200"></td>
     <td align="center">Feb 2025 Badge</td>
     <td align="center">Submit code daily in February 2025</td>
     <td align="center">Daily Medals</td>
-    <td align="center">❌</td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-3.png" width="200"></td>
+    <td align="center">Mar 2025 Badge</td>
+    <td align="center">Submit code daily in March 2025</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-4.png" width="200"></td>
+    <td align="center">Apr 2025 Badge</td>
+    <td align="center">Submit code daily in April 2025</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">✅</td>
   </tr>
 </table>
 </div>
