@@ -5,6 +5,7 @@
 Updated as of April 27, 2025
 
 Amount of badges that can be had simultaneously: 105 (1 comp + 4 submit days + 11 annual badges + 51 daily + 38 study plan = 105).
+
 Existing Badges: 108
 
 Account with all 105 badges: https://leetcode.com/u/phoenixdd/ and some other users with high badge counts:
