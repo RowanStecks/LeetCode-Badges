@@ -2,7 +2,7 @@
 
 ### This repository aims to compile an exhaustive list of LeetCode.com badges.
 
-Updated as of April 27, 2025
+Updated as of April 28, 2025
 
 Amount of badges that can be had simultaneously: 105 (1 comp + 4 submit days + 11 annual badges + 51 daily + 38 study plan = 105).
 
@@ -51,7 +51,7 @@ Currently Earnable Badges (26)
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg25100.png" width="200"></td>
-    <td align="center">100 Days Badge 100</td>
+    <td align="center">100 Days Badge 2025</td>
     <td align="center">Submit code on 100+ distinct days in 2025</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
@@ -267,7 +267,7 @@ Annual and Days Badges (13)
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Annual-Medals/PNG/lg25100.png" width="200"></td>
-    <td align="center">100 Days Badge 100</td>
+    <td align="center">100 Days Badge 2025</td>
     <td align="center">Submit code on 100+ distinct days in 2025</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
