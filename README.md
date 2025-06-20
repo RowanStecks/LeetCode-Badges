@@ -2,22 +2,23 @@
 
 ### This repository aims to compile an exhaustive list of LeetCode.com badges.
 
-Updated as of May 3, 2025
+Updated as of June 20, 2025
 
-Amount of badges that can be had simultaneously: 115 (1 comp + 4 submit days + 11 annual badges + 61 daily + 38 study plan = 115).
+Amount of badges that can be had simultaneously: 116 (1 comp + 4 submit days + 11 annual badges + 62 daily + 38 study plan = 116).
 
-Existing Badges: 118
+Existing Badges: 119
 
-Account with most badges: https://leetcode.com/u/PhoenixDD/ - 106 and some other users with high badge counts:
-https://leetcode.com/u/virtyaluk/ - 104
-https://leetcode.com/u/hmz74/ - 98,
-https://leetcode.com/u/zhang1pr/ - 96,
-https://leetcode.com/u/akashsingh3031 - 94,
-https://leetcode.com/u/skywalkert/ - 91,
-https://leetcode.com/u/leohunt/ - 90,
-https://leetcode.com/u/SGallivan/ - 89,
-https://leetcode.com/u/frogfox/ - 88,
-https://leetcode.com/u/nika-skybytska/ - 84
+Account with most badges: https://leetcode.com/u/PhoenixDD/ - 107 and some other users with high badge counts:
+https://leetcode.com/u/virtyaluk/ - 105
+https://leetcode.com/u/hmz74/ - 99,
+https://leetcode.com/u/zhang1pr/ - 97,
+https://leetcode.com/u/akashsingh3031 - 95,
+https://leetcode.com/u/skywalkert/ - 92,
+https://leetcode.com/u/leohunt/ - 91,
+https://leetcode.com/u/bytchenko/ - 90,
+https://leetcode.com/u/SGallivan/ - 90,
+https://leetcode.com/u/frogfox/ - 89,
+and more at https://github.com/RowanStecks/leetcode-leaderboard
 
 Most Difficult Badge: Guardian
 
@@ -25,7 +26,7 @@ Rarest Badge: 2000 Days / 2020 Daily Badges (3/9 known)
 
 <br>
 
-Currently Earnable Badges (83)
+Currently Earnable Badges (84)
 <div align="center">
 <table>
   <tr>
@@ -90,6 +91,14 @@ Currently Earnable Badges (83)
     <td align="center">Submit code on 50+ distinct days in 2025</td>
     <td align="center">Annual Medals</td>
     <td align="center">✅</td>
+  </tr>
+    <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-5.png" width="200"></td>
+    <td align="center">May 2025 Badge</td>
+    <td align="center">Submit code daily in May 2025</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">✅</td>
+  </tr>
   </tr>
     <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-4.png" width="200"></td>
@@ -621,7 +630,7 @@ Currently Earnable Badges (83)
 
 <br>
 
-All Existing Badges (118)
+All Existing Badges (119)
 
 <br>
 
@@ -760,11 +769,11 @@ Annual and Days Badges (13)
 
 <br>
 
-Daily Badges (61)
+Daily Badges (62)
 
 <br>
 
-2025 Daily Badges (4)
+2025 Daily Badges (5)
 <div align="center">
 <table>
   <tr>
@@ -799,6 +808,14 @@ Daily Badges (61)
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-4.png" width="200"></td>
     <td align="center">Apr 2025 Badge</td>
     <td align="center">Submit code daily in April 2025</td>
+    <td align="center">Daily Medals</td>
+    <td align="center">✅</td>
+  </tr>
+  </tr>
+    <tr>
+    <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2025-5.png" width="200"></td>
+    <td align="center">May 2025 Badge</td>
+    <td align="center">Submit code daily in May 2025</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -1221,7 +1238,7 @@ Daily Badges (61)
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2020-6.png" width="200"></td>
     <td align="center">Jun 2020 Badge</td>
-    <td align="center">Submit code daily in June 2020 (only known owner: https://leetcode.com/u/skywalkert/)</td>
+    <td align="center">Submit code daily in June 2020 (known owner: https://leetcode.com/u/skywalkert/)</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -1235,14 +1252,14 @@ Daily Badges (61)
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2020-8.png" width="200"></td>
     <td align="center">Aug 2020 Badge</td>
-    <td align="center">Submit code daily in August 2020 (only known owner: https://leetcode.com/u/lovebaonvwu/)</td>
+    <td align="center">Submit code daily in August 2020 (known owner: https://leetcode.com/u/lovebaonvwu/)</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2020-9.png" width="200"></td>
     <td align="center">Sep 2020 Badge</td>
-    <td align="center">Submit code daily in September 2020 (only known owner: https://leetcode.com/u/lovebaonvwu/)</td>
+    <td align="center">Submit code daily in September 2020 (known owner: https://leetcode.com/u/lovebaonvwu/)</td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
