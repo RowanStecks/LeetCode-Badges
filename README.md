@@ -1219,7 +1219,7 @@ Daily Badges (62)
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2020-6.png" width="200"></td>
     <td align="center">Jun 2020 Badge</td>
-    <td align="center">Submit code daily in June 2020 (known owner: https://leetcode.com/u/skywalkert/)</td>
+    <td align="center">Submit code daily in June 2020 </td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
@@ -1233,14 +1233,14 @@ Daily Badges (62)
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2020-8.png" width="200"></td>
     <td align="center">Aug 2020 Badge</td>
-    <td align="center">Submit code daily in August 2020 (known owner: https://leetcode.com/u/lovebaonvwu/)</td>
+    <td align="center">Submit code daily in August 2020 </td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
   <tr>
     <td align="center"><img src="Media/Badges/Daily-Medals/PNG/dcc-2020-9.png" width="200"></td>
     <td align="center">Sep 2020 Badge</td>
-    <td align="center">Submit code daily in September 2020 (known owner: https://leetcode.com/u/lovebaonvwu/)</td>
+    <td align="center">Submit code daily in September 2020 </td>
     <td align="center">Daily Medals</td>
     <td align="center">✅</td>
   </tr>
