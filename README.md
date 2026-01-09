@@ -4,25 +4,6 @@
 
 Updated as of June 20, 2025
 
-Amount of badges that can be had simultaneously: 116 (1 comp + 4 submit days + 11 annual badges + 62 daily + 38 study plan = 116).
-
-Existing Badges: 119
-
-Account with most badges: https://leetcode.com/u/PhoenixDD/ - 107 and some other users with high badge counts:
-https://leetcode.com/u/virtyaluk/ - 105
-https://leetcode.com/u/hmz74/ - 99,
-https://leetcode.com/u/zhang1pr/ - 97,
-https://leetcode.com/u/akashsingh3031 - 95,
-https://leetcode.com/u/skywalkert/ - 92,
-https://leetcode.com/u/leohunt/ - 91,
-https://leetcode.com/u/bytchenko/ - 90,
-https://leetcode.com/u/SGallivan/ - 90,
-https://leetcode.com/u/frogfox/ - 89,
-and more at https://github.com/RowanStecks/leetcode-leaderboard
-
-Most Difficult Badge: Guardian
-
-Rarest Badge: 2000 Days / 2020 Daily Badges (3/9 known)
 
 <br>
 
